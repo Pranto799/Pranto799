@@ -1,9 +1,12 @@
 package String;
-import java.util.Scanner;
-public class test1 {
+import java.util.*;
+
+public class test17 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        String name=sc.nextLine();
+        StringBuilder name=new StringBuilder("Tony");
+        name.insert(1,'S');
         System.out.println(name);
     }
+    
 }
