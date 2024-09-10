@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding & web development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ...
-- 😄 Pronouns: Pranto
+- 📫 How to reach me mail me(prantocseku@gmail.com)
+- 😄 Pronouns: I am a student of Khulna University(CSE )
 - ⚡ Fun fact: ...
 
 <!---
